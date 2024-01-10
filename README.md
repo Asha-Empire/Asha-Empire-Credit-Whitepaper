@@ -10,3 +10,16 @@ Our token, utilizing the Metaplex infrastructure, will be created on Solana, one
 
 ### Token Features
 Asha Empire Credit will be created using the Metaplex Token Metadata program from Metaplex. The number of tokens is not fixed; they will be minted or burned based on the inflation values in the game economy.
+
+## Token Economy
+
+### Supply and Distribution
+Initially, 1,000,000 AEC will be minted and made available for use in the game. Instead of a fixed dollar price, AEC will be sold on the asha-empire.credit website, a maximum of 1,000 AEC daily priced in Solana (SOL), ensuring that 1 AEC's value is always equivalent to 1 USD according to the current SOL value. For example, if 1 SOL is valued at 100 USD, then 100 AEC will be sold for 1 SOL. This approach aligns the value of AEC with the fluctuations in the Solana market, providing a dynamic pricing mechanism. For every 1,000 active players, an additional 1,000 AEC will be sold by the game. The reminting of AEC and an increase in the number of tokens will be contingent on the in-game economy, aiming to maintain inflation between 0% and 5%. If inflation falls below 0%, minting will start, distributing tokens through in-game mining, reward distributions, and quests. Additionally, in-game taxes, interest, and transaction fees will be adjusted in response to changes in inflation.
+
+Players can accumulate AEC by defeating bandits in the game, collecting AEC carried by other defeated players, mining and selling resources, crafting items, completing quests, forming corporations, and earning interest by depositing in banks.
+
+### Burning and Value Appreciation Mechanisms
+To maintain the balance of the game's economy, if inflation exceeds 5%, in-game taxes, interest, and transaction fees will be increased until inflation decreases, with the excess AEC being burned.
+
+### Interest
+The interest offered by in-game banks will be proportional to inflation. As inflation rises, interest rates will increase, and they will decrease as inflation falls. This interest will be utilized in two ways: players depositing in banks will earn interest, and players taking loans from banks will pay interest.
