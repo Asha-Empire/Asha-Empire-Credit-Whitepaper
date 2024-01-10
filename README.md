@@ -35,3 +35,10 @@ Efforts will be made to integrate and list AEC on local and global cryptocurrenc
 For transferring from the game to a wallet, the desired Solana address to send from the game account will be specified. Once this transaction is verified, it will be executed by a job.
 
 When someone sends AECs, which they have bought from crypto exchanges or have in their wallet, to the unique Solana address specified for a player in their game account, a job will transfer this transaction to the game account. From this point onwards, the player will be able to use these AECs within the game as they wish.
+
+## Market Strategy
+
+### Listing and Partnerships
+Once the game reaches its beta phase, applications will be made to all local and global cryptocurrency exchanges, and integrations with asha-empire.credit will be executed through mutual agreements.
+
+During this integration period, players will be able to buy AEC in exchange for Solana and vice versa on the asha-empire.credit website. The asha-empire.credit site operates off-chain.
