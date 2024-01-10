@@ -23,3 +23,15 @@ To maintain the balance of the game's economy, if inflation exceeds 5%, in-game 
 
 ### Interest
 The interest offered by in-game banks will be proportional to inflation. As inflation rises, interest rates will increase, and they will decrease as inflation falls. This interest will be utilized in two ways: players depositing in banks will earn interest, and players taking loans from banks will pay interest.
+
+## Usage Scenarios and Player Interactions
+
+### In-Game Usage
+All economic activities within the game will be conducted using AEC. All assets will be traded in AEC. All rewards, taxes, and transaction fees will be collected in AEC.
+
+### External Usage
+Efforts will be made to integrate and list AEC on local and global cryptocurrency exchanges. The game’s website, asha-empire.credit, will be used to facilitate integrated operations with all these exchanges.
+
+For transferring from the game to a wallet, the desired Solana address to send from the game account will be specified. Once this transaction is verified, it will be executed by a job.
+
+When someone sends AECs, which they have bought from crypto exchanges or have in their wallet, to the unique Solana address specified for a player in their game account, a job will transfer this transaction to the game account. From this point onwards, the player will be able to use these AECs within the game as they wish.
