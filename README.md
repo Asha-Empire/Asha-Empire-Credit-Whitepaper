@@ -49,3 +49,7 @@ During this integration period, players will be able to buy AEC in exchange for 
 The entire AEC system operates within the Google Cloud environment. To counteract cyberattacks, Google's infrastructure is utilized. Additionally, our websites will undergo penetration tests at least once a year, and the results of these tests will be published.
 
 In the event of potential cyberattacks, operations will be temporarily suspended. Transactions will be reactivated once the security risk has passed. This period can last up to a maximum of 3 full days (72 hours).
+
+## Legal Compliance
+
+In accordance with global personal data protection laws, no one's transactions will be shared with third parties at any time under any circumstances. This rule will only be waived in cases where it is necessary to comply with legitimate legal requirements and demands from local authorities or courts.
