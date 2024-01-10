@@ -42,3 +42,10 @@ When someone sends AECs, which they have bought from crypto exchanges or have in
 Once the game reaches its beta phase, applications will be made to all local and global cryptocurrency exchanges, and integrations with asha-empire.credit will be executed through mutual agreements.
 
 During this integration period, players will be able to buy AEC in exchange for Solana and vice versa on the asha-empire.credit website. The asha-empire.credit site operates off-chain.
+
+## Security and Governance
+
+### Infrastructure Security
+The entire AEC system operates within the Google Cloud environment. To counteract cyberattacks, Google's infrastructure is utilized. Additionally, our websites will undergo penetration tests at least once a year, and the results of these tests will be published.
+
+In the event of potential cyberattacks, operations will be temporarily suspended. Transactions will be reactivated once the security risk has passed. This period can last up to a maximum of 3 full days (72 hours).
